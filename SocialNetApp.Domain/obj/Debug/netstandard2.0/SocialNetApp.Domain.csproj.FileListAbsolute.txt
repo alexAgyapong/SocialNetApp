@@ -1,0 +1,9 @@
+C:\Users\alexa\Documents\Visual Studio 2017\Projects\Codurance\SocialNetApp\SocialNetApp.Domain\bin\Debug\netstandard2.0\SocialNetApp.Domain.deps.json
+C:\Users\alexa\Documents\Visual Studio 2017\Projects\Codurance\SocialNetApp\SocialNetApp.Domain\bin\Debug\netstandard2.0\SocialNetApp.Domain.dll
+C:\Users\alexa\Documents\Visual Studio 2017\Projects\Codurance\SocialNetApp\SocialNetApp.Domain\obj\Debug\netstandard2.0\SocialNetApp.Domain.csprojResolveAssemblyReference.cache
+C:\Users\alexa\Documents\Visual Studio 2017\Projects\Codurance\SocialNetApp\SocialNetApp.Domain\obj\Debug\netstandard2.0\SocialNetApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Documents\Visual Studio 2017\Projects\Codurance\SocialNetApp\SocialNetApp.Domain\obj\Debug\netstandard2.0\SocialNetApp.Domain.AssemblyInfoInputs.cache
+C:\Users\alexa\Documents\Visual Studio 2017\Projects\Codurance\SocialNetApp\SocialNetApp.Domain\obj\Debug\netstandard2.0\SocialNetApp.Domain.AssemblyInfo.cs
+C:\Users\alexa\Documents\Visual Studio 2017\Projects\Codurance\SocialNetApp\SocialNetApp.Domain\bin\Debug\netstandard2.0\SocialNetApp.Domain.pdb
+C:\Users\alexa\Documents\Visual Studio 2017\Projects\Codurance\SocialNetApp\SocialNetApp.Domain\obj\Debug\netstandard2.0\SocialNetApp.Domain.dll
+C:\Users\alexa\Documents\Visual Studio 2017\Projects\Codurance\SocialNetApp\SocialNetApp.Domain\obj\Debug\netstandard2.0\SocialNetApp.Domain.pdb

@@ -1,0 +1,16 @@
+C:\Users\alexa\Documents\Visual Studio 2017\Projects\Codurance\SocialNetApp\SocialNetApp.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\alexa\Documents\Visual Studio 2017\Projects\Codurance\SocialNetApp\SocialNetApp.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\alexa\Documents\Visual Studio 2017\Projects\Codurance\SocialNetApp\SocialNetApp.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\alexa\Documents\Visual Studio 2017\Projects\Codurance\SocialNetApp\SocialNetApp.Tests\bin\Debug\netcoreapp2.0\SocialNetApp.Tests.deps.json
+C:\Users\alexa\Documents\Visual Studio 2017\Projects\Codurance\SocialNetApp\SocialNetApp.Tests\bin\Debug\netcoreapp2.0\SocialNetApp.Tests.runtimeconfig.json
+C:\Users\alexa\Documents\Visual Studio 2017\Projects\Codurance\SocialNetApp\SocialNetApp.Tests\bin\Debug\netcoreapp2.0\SocialNetApp.Tests.runtimeconfig.dev.json
+C:\Users\alexa\Documents\Visual Studio 2017\Projects\Codurance\SocialNetApp\SocialNetApp.Tests\bin\Debug\netcoreapp2.0\SocialNetApp.Tests.dll
+C:\Users\alexa\Documents\Visual Studio 2017\Projects\Codurance\SocialNetApp\SocialNetApp.Tests\obj\Debug\netcoreapp2.0\SocialNetApp.Tests.csprojResolveAssemblyReference.cache
+C:\Users\alexa\Documents\Visual Studio 2017\Projects\Codurance\SocialNetApp\SocialNetApp.Tests\obj\Debug\netcoreapp2.0\SocialNetApp.Tests.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Documents\Visual Studio 2017\Projects\Codurance\SocialNetApp\SocialNetApp.Tests\obj\Debug\netcoreapp2.0\SocialNetApp.Tests.AssemblyInfoInputs.cache
+C:\Users\alexa\Documents\Visual Studio 2017\Projects\Codurance\SocialNetApp\SocialNetApp.Tests\obj\Debug\netcoreapp2.0\SocialNetApp.Tests.AssemblyInfo.cs
+C:\Users\alexa\Documents\Visual Studio 2017\Projects\Codurance\SocialNetApp\SocialNetApp.Tests\bin\Debug\netcoreapp2.0\SocialNetApp.Tests.pdb
+C:\Users\alexa\Documents\Visual Studio 2017\Projects\Codurance\SocialNetApp\SocialNetApp.Tests\obj\Debug\netcoreapp2.0\SocialNetApp.Tests.dll
+C:\Users\alexa\Documents\Visual Studio 2017\Projects\Codurance\SocialNetApp\SocialNetApp.Tests\obj\Debug\netcoreapp2.0\SocialNetApp.Tests.pdb
+C:\Users\alexa\Documents\Visual Studio 2017\Projects\Codurance\SocialNetApp\SocialNetApp.Tests\bin\Debug\netcoreapp2.0\SocialNetApp.Domain.dll
+C:\Users\alexa\Documents\Visual Studio 2017\Projects\Codurance\SocialNetApp\SocialNetApp.Tests\bin\Debug\netcoreapp2.0\SocialNetApp.Domain.pdb
